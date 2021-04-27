@@ -16,7 +16,6 @@ public class MostAverageNumber {
                average = (int) total/count;
            }
        }
-
         return average;
     }
 }
